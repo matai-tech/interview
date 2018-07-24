@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-exam',
   templateUrl: './exam.component.html',
-  styles: []
+  styles: [``]
 })
 export class ExamComponent implements OnInit {
   code1 = `
